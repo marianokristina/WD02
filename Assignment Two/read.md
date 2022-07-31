@@ -1,0 +1,1 @@
+Hi Beshad, I incoporated the javascript under the index.html code :)
